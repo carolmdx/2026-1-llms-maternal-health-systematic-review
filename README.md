@@ -6,13 +6,13 @@ This repository contains all materials, artifacts, and documentation used to con
 
 ---
 
-## 📌 Objective
+## Objective
 
 This study aims to analyze how Large Language Models (LLMs) are used by healthcare professionals in maternal health and to identify their applications, benefits, limitations, and implications for clinical decision-making and patient safety.
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 The review follows a structured systematic review protocol, including:
 
@@ -24,7 +24,7 @@ The review follows a structured systematic review protocol, including:
 
 ---
 
-## 📚 Data Sources
+## Data Sources
 
 - Scopus  
 - Web of Science  
@@ -36,4 +36,4 @@ The review follows a structured systematic review protocol, including:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
