@@ -32,7 +32,10 @@ The review follows a structured systematic review protocol, including:
 - IEEE Xplore  
 - ACM Digital Library  
 - SciELO  
-- LILACS  
+- BVS Library
+- CINAHL
+- ScienceDirect
+- SpringerLink  
 
 ---
 
